@@ -1,0 +1,27 @@
+[submodule "buildtools"]
+	path = buildtools
+	url = https://github.com/dotnet/buildtools
+[submodule "clients/corefx"]
+	path = clients/corefx
+	url = https://github.com/dotnet/corefx
+[submodule "clients/coreclr"]
+	path = clients/coreclr
+	url = https://github.com/dotnet/coreclr
+[submodule "clients/cli"]
+	path = clients/cli
+	url = https://github.com/dotnet/cli
+[submodule "clients/core-setup"]
+	path = clients/core-setup
+	url = https://github.com/dotnet/core-setup
+[submodule "clients/corefxlab"]
+	path = clients/corefxlab
+	url = https://github.com/dotnet/corefxlab
+[submodule "clients/buildtools"]
+	path = clients/buildtools
+	url = https://github.com/dotnet/buildtools
+[submodule "clients/standard"]
+	path = clients/standard
+	url = https://github.com/dotnet/standard
+[submodule "clients/sdk"]
+	path = clients/sdk
+	url = https://github.com/dotnet/sdk
