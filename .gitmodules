@@ -1,27 +1,36 @@
 [submodule "buildtools"]
 	path = buildtools
 	url = https://github.com/dotnet/buildtools
+	shallow = true
 [submodule "clients/corefx"]
 	path = clients/corefx
 	url = https://github.com/dotnet/corefx
+	shallow = true
 [submodule "clients/coreclr"]
 	path = clients/coreclr
 	url = https://github.com/dotnet/coreclr
+	shallow = true
 [submodule "clients/cli"]
 	path = clients/cli
 	url = https://github.com/dotnet/cli
+	shallow = true
 [submodule "clients/core-setup"]
 	path = clients/core-setup
 	url = https://github.com/dotnet/core-setup
+	shallow = true
 [submodule "clients/corefxlab"]
 	path = clients/corefxlab
 	url = https://github.com/dotnet/corefxlab
+	shallow = true
 [submodule "clients/buildtools"]
 	path = clients/buildtools
 	url = https://github.com/dotnet/buildtools
+	shallow = true
 [submodule "clients/standard"]
 	path = clients/standard
 	url = https://github.com/dotnet/standard
+	shallow = true
 [submodule "clients/sdk"]
 	path = clients/sdk
 	url = https://github.com/dotnet/sdk
+	shallow = true
