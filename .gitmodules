@@ -10,10 +10,6 @@
 	path = clients/coreclr
 	url = https://github.com/dotnet/coreclr
 	shallow = true
-[submodule "clients/cli"]
-	path = clients/cli
-	url = https://github.com/dotnet/cli
-	shallow = true
 [submodule "clients/core-setup"]
 	path = clients/core-setup
 	url = https://github.com/dotnet/core-setup
@@ -29,8 +25,4 @@
 [submodule "clients/standard"]
 	path = clients/standard
 	url = https://github.com/dotnet/standard
-	shallow = true
-[submodule "clients/sdk"]
-	path = clients/sdk
-	url = https://github.com/dotnet/sdk
 	shallow = true
